@@ -3,7 +3,7 @@ html {
 }
 
 .masthead {
-  background: url("../images/leaf.bg.svg");
+  background: url("../images/leaf-bg.svg");
   background-color: #588477;
   background-size: 64px;
   border-top: solid 3px #145b1d;
@@ -35,7 +35,7 @@ html {
 
 .banner {
   padding-top: 305px;
-  background: url("../images/two-leaves.svg") no-repeat left 15px center / 70px, url("../images/banner.jpg") bottom / cover:
+  background: url("../images/two-leaves.svg") no-repeat left 15px center / 70px, url("../images/banner.jpg") bottom / cover;
 }
 
 .banner-content {
